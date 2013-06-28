@@ -6,6 +6,10 @@ type plugin for element
 
     $ component install enricomarino/element-type
 
+## API
+
+### Element#type():String
+
 ## License
 
 (The MIT License)
